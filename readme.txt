@@ -1,0 +1,1 @@
+Mở thư mục,  mở cửa sổ terminal, chạy lệnh dotnet run
